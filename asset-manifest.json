@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-Jorunal-App/static/css/main.925fa5c1.chunk.css",
+    "main.js": "/React-Jorunal-App/static/js/main.52ffae51.chunk.js",
+    "main.js.map": "/React-Jorunal-App/static/js/main.52ffae51.chunk.js.map",
+    "runtime-main.js": "/React-Jorunal-App/static/js/runtime-main.203f00c6.js",
+    "runtime-main.js.map": "/React-Jorunal-App/static/js/runtime-main.203f00c6.js.map",
+    "static/js/2.7e12242d.chunk.js": "/React-Jorunal-App/static/js/2.7e12242d.chunk.js",
+    "static/js/2.7e12242d.chunk.js.map": "/React-Jorunal-App/static/js/2.7e12242d.chunk.js.map",
+    "index.html": "/React-Jorunal-App/index.html",
+    "static/css/main.925fa5c1.chunk.css.map": "/React-Jorunal-App/static/css/main.925fa5c1.chunk.css.map",
+    "static/js/2.7e12242d.chunk.js.LICENSE.txt": "/React-Jorunal-App/static/js/2.7e12242d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.203f00c6.js",
+    "static/js/2.7e12242d.chunk.js",
+    "static/css/main.925fa5c1.chunk.css",
+    "static/js/main.52ffae51.chunk.js"
+  ]
+}
